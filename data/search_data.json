@@ -1,0 +1,23 @@
+[
+  {
+    "data": {
+      "search_txt": "tdx"
+    },
+    "story": "用例1：输入tdx",
+    "title": "输入测试tdx"
+  },
+  {
+    "data": {
+      "search_txt": "mytdx"
+    },
+    "story": "用例2：输入mytdx",
+    "title": "输入测试mytdx"
+  },
+  {
+    "data": {
+      "search_txt": "三国"
+    },
+    "story": "用例3：输入三国",
+    "title": "输入测试三国"
+  }
+]
